@@ -1,3 +1,3 @@
 # TPBot
 This is my first discord bot in CC-BY-SA
-![Screenshot 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot 1")
+![Screenshot 1](https://raw.githubusercontent.com/Minecodes/TPBot/master/Screenshot_20200518-214525.png "Screenshot 1")
