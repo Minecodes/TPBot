@@ -1,0 +1,20 @@
+{
+  "name": "tpbot",
+  "version": "2.0.0",
+  "description": "This is my first discord bot in CC-BY-SA",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "author": "Minecodes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "colors": "^1.4.0",
+    "opusscript": "^0.0.7",
+    "@discordjs/opus": "^0.3.2",
+    "ffmpeg-static": "^4.2.1",
+    "ytdl-core": "^2.1.2"
+  }
+}
